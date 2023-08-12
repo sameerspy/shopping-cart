@@ -19,3 +19,4 @@ Runs the app in development mode.
 
 You can learn more about [TypeScript](https://www.typescriptlang.org) and [Vite](https://vitejs.dev/guide/).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
